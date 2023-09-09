@@ -94,6 +94,10 @@ To use this project, you can interact with it via API requests using a tool like
 
 - [Inquirer](https://www.npmjs.com/package/inquirer) - for interacting with user input generating prompts
 - [MySQL2](https://www.npmjs.com/package/mysql2) - for interacting with MySQL
+- [Sequelize](https://www.npmjs.com/package/sequelize) - for interacting with the database
+- [Dotenv](https://www.npmjs.com/package/dotenv) - for managing environment variables
+- [Express](https://www.npmjs.com/package/express) - for handling HTTP requests
+- [Node.js](https://www.npmjs.com/package/node) - for running the server
 
 ## 🤝 Contributing
 

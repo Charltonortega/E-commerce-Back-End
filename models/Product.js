@@ -7,13 +7,13 @@ Product.init(
   {
     // Define columns
     id: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
+      type: DataTypes.INTEGER, // data type is a number
+      allowNull: false, // cannot be null values
       primaryKey: true,
       autoIncrement: true,
     },
     product_name: {
-      type: DataTypes.STRING,
+      type: DataTypes.STRING, // data type is a string (text)
       allowNull: false,
     },
   },
